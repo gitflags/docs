@@ -2,7 +2,7 @@ title: GitFlags Docs
 description: Official GitFlags documentation site
 theme: just-the-docs
 
-url: https://gitflags.github.io
+url: https://docs.gitflags.com
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
