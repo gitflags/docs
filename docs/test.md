@@ -1,3 +1,8 @@
+---
+title: test
+nav_order: 1
+---
+
 # Test
 
 This is a test.
