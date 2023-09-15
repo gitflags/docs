@@ -1,6 +1,7 @@
 ---
 title: test
-nav_order: 1
+layout: page
+nav_order: 2
 ---
 
 # Test
