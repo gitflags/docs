@@ -2,9 +2,12 @@ title: GitFlags Docs
 description: Official GitFlags documentation site
 theme: just-the-docs
 
+baseurl: "" # the subpath of your site, e.g. /blog
 url: https://docs.gitflags.com
 
 color_scheme: dark
+
+permalink: pretty
 
 aux_links:
   Check us out on GitHub!: https://github.com/gitflags/docs
